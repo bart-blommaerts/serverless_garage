@@ -1,0 +1,6 @@
+{
+  "region": "eu-west-1",
+  "resourcesStackName": "garage-dev-r",
+  "iamRoleArnLambda": "arn:aws:iam::836964591189:role/garage-dev-r-IamRoleLambda-1XGXFCWLQI23Y",
+  "apiGatewayApi": "garage"
+}

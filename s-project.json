@@ -1,0 +1,10 @@
+{
+  "name": "garage",
+  "version": "0.0.1",
+  "profile": "serverless-v0.4.2",
+  "location": "https://github.com/bart-blommaerts/serverless_garage.git",
+  "author": "Bart Blommaerts",
+  "description": "Serverless Garage Project",
+  "custom": {},
+  "plugins": []
+}

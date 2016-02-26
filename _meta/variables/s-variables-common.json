@@ -1,0 +1,6 @@
+{
+  "project": "garage",
+  "projectBucket": "serverless.eu-west-1.serverless.garage.ordina.be",
+  "domain": "serverless.garage.ordina.be",
+  "notificationEmail": "bart.blommaerts@ordina.be"
+}
