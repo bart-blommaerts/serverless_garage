@@ -6,5 +6,8 @@
   "author": "Bart Blommaerts",
   "description": "Serverless Garage Project",
   "custom": {},
-  "plugins": []
+  "plugins": [
+        "serverless-client-s3",
+        "serverless-cors-plugin"
+  ]
 }
